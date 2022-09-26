@@ -8,7 +8,7 @@
 
 ---
 
-  - ### <a title="AhmedNasser1601/Diabetic-Retinopathy-Detection" href="/Diabetic_Retinopathy_Detection.ipynb"><img width="75" alt="Google Colaboratory SVG Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/100px-Google_Colaboratory_SVG_Logo.svg.png">Stock Analysis |> Netflix</a>
+  - ### <a title="AhmedNasser1601/Diabetic-Retinopathy-Detection" href="/Diabetic_Retinopathy_Detection.ipynb"><img width="75" alt="Google Colaboratory SVG Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/100px-Google_Colaboratory_SVG_Logo.svg.png">Diabetic Retinopathy Detection</a>
   
   > Based on |> <a href="#">##########</a>
   >> <img src="#">
