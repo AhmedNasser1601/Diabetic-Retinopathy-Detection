@@ -4,7 +4,7 @@
 >>> **Task2 >> *Diabetic Retinopathy Detection***
 
 - <a href="#">LinkedIn Post</a>
-- <a href="#">YouTube Video</a>
+- <a href="https://youtu.be/zei97T9bs0c">YouTube Video</a>
 
 ---
 
