@@ -8,7 +8,7 @@
 
 ---
 
-  - ### <a title="AhmedNasser1601/Diabetic-Retinopathy-Detection" href="/Diabetic_Retinopathy_Detection.ipynb"><img width="75" alt="Kaggle Logo" src="https://user-images.githubusercontent.com/60184582/192409331-f12ba0c6-4064-43b8-9b89-3d5fcd09a55f.png">Diabetic Retinopathy Detection</a>
+  - ### <a title="AhmedNasser1601/Diabetic-Retinopathy-Detection" href="/Diabetic_Retinopathy_Detection.ipynb"><img width="65" alt="Kaggle Logo" src="https://user-images.githubusercontent.com/60184582/192409331-f12ba0c6-4064-43b8-9b89-3d5fcd09a55f.png">Diabetic Retinopathy Detection</a>
   
   > Based on |> <a href="https://www.kaggle.com/code/ahmednasser1601/diabetic-retinopathy-detection">Diabetic Retinopathy 224x224 Gaussian Filtered</a>
   >> <img src="/Results/0.png">
