@@ -3,7 +3,7 @@
 >> **Data Science Intern |> *CC-OL-911***
 >>> **Task2 >> *Diabetic Retinopathy Detection***
 
-- <a href="#">LinkedIn Post</a>
+- <a href="https://www.linkedin.com/posts/ahmednasser1601_diabetic-retinopathy-detection-data-science-activity-6980522430528151552-Ya_e?utm_source=share&utm_medium=member_desktop">LinkedIn Post</a>
 - <a href="https://youtu.be/zei97T9bs0c">YouTube Video</a>
 
 ---
